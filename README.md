@@ -6,7 +6,7 @@
 - 🔮 I’m looking to: Transition to Web3 full-time
 - 👾 Side hustle: Technical Lead & Development with [Gen City Labs](https://gencitylabs.io/)
 - 💬 Ask me about: Where you should start learning about Front-end Development
-- 💥 Discord: Onward#1927
+- 💥 Discord: Onward
 - 💥 Telegram: Onward1927
 - 💥 LinkedIn: [Jameson Nuss](https://www.linkedin.com/in/jamesonnuss/)
 - 🤘 Say hello: hello@jamesonnuss.com
