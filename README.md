@@ -10,5 +10,5 @@
 - 💥 Discord: Onward
 - 💥 Telegram: ONW4RD
 - 💥 LinkedIn: [Jameson Nuss](https://www.linkedin.com/in/jamesonnuss/)
-- 💥 Twitter: 0XOnward
+- 💥 Twitter: 0xOnward
 - 🤘 Say hello: hello@jamesonnuss.com
